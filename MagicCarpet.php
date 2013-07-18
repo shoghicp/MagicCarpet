@@ -166,7 +166,7 @@ class MagicCarpet implements Plugin{
 					}
 				}
 				unset($this->sessions[$issuer->CID]);
-				$output .= "The glass carpet dissapears.\n";
+				$output .= "The glass carpet disappears.\n";
 			}
 		}
 		return $output;
