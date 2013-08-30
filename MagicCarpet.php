@@ -7,7 +7,7 @@ description=MagicCarpet is a plugin that allows the user to fly away on a carpet
 version=0.2
 author=shoghicp
 class=MagicCarpet
-apiversion=7,8,9
+apiversion=7,8,9,10
 */
 
 /* 
