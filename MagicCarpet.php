@@ -24,7 +24,7 @@ Small Changelog
 - Fixes
 - Ability to place blocks in glass
 
-0.1:
+0.2:
 - Alpha_1.3 compatible release
 
 */
